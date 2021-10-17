@@ -40503,17 +40503,17 @@
 211710055634_38.jpg#2           A person in white jeans stands in front of a building .
 211710055634_38.jpg#3           A man is looking at a landmark .
 211710055634_38.jpg#4           A person is looking at a tall building .
-211710060117_38.jpg#0           A group of people is taking pictures in front of a group of buildings .
+211710060117_38.jpg#0           A group of people is taking pictures in front of a group of building .
 211710060117_38.jpg#1           A group of people is standing in front of a landmark .
 211710060117_38.jpg#2           A group is taking pictures in front of a building .
-211710060117_38.jpg#3           A group of teenagers is taking pictures in front of a group of buildings .
+211710060117_38.jpg#3           A group of teenagers is taking pictures in front of a group of building .
 211710060117_38.jpg#4           A group of person stand in front of a landmark .
 211710060844_38.jpg#0           A group of people is posing in front of a group of landmark .
 211710060844_38.jpg#1           A group of friends is taking pictures in front of a building .
 211710060844_38.jpg#2           A group is posinng in front of a group of buildings .
-211710060844_38.jpg#3           A group of friends is standing in front of a group of buildings .
+211710060844_38.jpg#3           A group of friends is standing in front of a group of building .
 211710060844_38.jpg#4           A group of people is taking pictures in front of a landmark .
-211710061833_38.jpg#0           A group of people is standing in front of a group of buildings .
+211710061833_38.jpg#0           A group of people is standing in front of a group of building .
 211710061833_38.jpg#1           A group stand in front of a landmark .
 211710061833_38.jpg#2           A group of person is standing in front of a building .
 211710061833_38.jpg#3           A group of old person stands in front of a landmark .
@@ -40523,4 +40523,88 @@
 211710061901_38.jpg#2           A group of people is walking throug a tall landmark .
 211710061901_38.jpg#3           A family is wearing a mask and standing in front of a landmark .
 211710061901_38.jpg#4           A family in mask is walking in front of a building .
+211710074413_38.jpg#0           A tall building is standing under a beautiful sky .
+211710074413_38.jpg#1           A beautiful landmark is standing at sunset .
+211710074413_38.jpg#2           A tall landmark is standing under a night sky .
+211710074413_38.jpg#3           A building is reaching the sky .
+211710074413_38.jpg#4           A beautiful building is reaching the sky .
+211710090145_38.jpg#0           A tall landmark is standing above a river .
+211710090145_38.jpg#1		A group of building stand above a river .
+211710090145_38.jpg#2           A beautiful building stands beside another building .
+211710090145_38.jpg#3           A beautifuil landmark is standing under a clear sky .
+211710090145_38.jpg#4           A landmark is standing under a sky .
+211710091111_38.jpg#0           A person is standing in front of a tall landmark .
+211710091111_38.jpg#1           A young girl is pointing at a beautiful building .
+211710091111_38.jpg#2           A women is taking a picture in front of a landmark .
+211710091111_38.jpg#3           A girl in orange shirt is standing in front of a landmark .
+211710091111_38.jpg#4		A women in orange shirt is pointing at a tall building .
+211710091513_38.jpg#0           A group of tall buildings stand under a night sky .
+211710091513_38.jpg#1		A beautiful landmark is shining under a night sky .
+211710091513_38.jpg#2		A tall building is shining above a dark river .
+211710091513_38.jpg#3		A group of tall landmark is standing above a dark river .
+211710091513_38.jpg#4		A group of beautiful building is shining under a dark sky .
+211710092044_38.jpg#0           A girl in white shirt is standing under a tall building .
+211710092044_38.jpg#1		A girl in white shirt and blue jeans is taking a picture in front of a landmark .
+211710092044_38.jpg#2		A girl in blue jeans is standing in front of a beautiful landmark .
+211710092044_38.jpg#3		A person stands in front of a tall and beautiful building .
+211710092044_38.jpg#4		A women dressed in white shirt is standing in front of a tall landmark .
+211710092101_38.jpg#0		A person in gray shirt is taking a picture in front of a tall building .
+211710092101_38.jpg#1		A young man in gray shirt and black jeans is standing in front of a beautiful landmark .
+211710092101_38.jpg#2		A boy dressed in gray shirt and black jeans is taking a picture in front of a building .
+211710092101_38.jpg#3		A young boy dressed in gray shirt stands in front of a landmark .
+211710092101_38.jpg#4		A boy is wearing a gray shirt is standing in front of a building .
+211710092356_38.jpg#0		A man dressed in black coat is taking a picture in front of a tall landmark .
+211710092356_38.jpg#1		A young man is standing in front of a landmark .
+211710092356_38.jpg#2		A person dressed in black coat and blue jeans is standing in front of a beautiful landmark .
+211710092356_38.jpg#3		A young person is taking a picture in front of a tall landmark .
+211710092356_38.jpg#4		A man dressed in black coat is posing to take a picture in front of a landmark .
+211710092531_38.jpg#0		A girl is taking a picture in a museum .
+211710092531_38.jpg#1		A women is standing in a beautiful museum .
+211710092531_38.jpg#2		A young girl is posing to take a picture in a museum .
+211710092531_38.jpg#3		A girl dressed in long dress is taking a picture in a museum .
+211710092531_38.jpg#4		A person dressed in long dress is standing in a museum .
+211710093458_38.jpg#0		A girl is watching paintings in a museum .
+211710093458_38.jpg#1		A young girl is observing paintings in a museum .
+211710093458_38.jpg#2		A beautiful girl is taking a picture in a museum .
+211710093458_38.jpg#3		A person is watching paintings in a museum .
+211710093458_38.jpg#4		A girl in brown shirt is watching paintings in a museum .
+211710094244_38.jpg#0		A group of people is watching paintings in a museum .
+211710094244_38.jpg#1		A group is standing in a museum .
+211710094244_38.jpg#2		A group of people is observing paintings in a museum .
+211710094244_38.jpg#3		People is observing paintings in a museum .
+211710094244_38.jpg#4		People watch paintings in a museum .
+211710094322_38.jpg#0		A group of people is watching a painting in a museum .
+211710094322_38.jpg#1		A group is observing a painting in a museum .
+211710094322_38.jpg#2		A group of people observe a huge painting in a museum .
+211710094322_38.jpg#3		People is observing a beautiful painting in a museum .
+211710094322_38.jpg#4		People is talking to others about a painting in a museum .
+211710095411_38.jpg#0		A young girl in black dress is taking a picture in front of a landmark .
+211710095411_38.jpg#1		A women dressed in black dress is standing in front of a landmark .
+211710095411_38.jpg#2		A person in black dress is posing to take a picture in front of a tall building .
+211710095411_38.jpg#3		A girl dressed in black dress is smiling in front of a tall landmark .
+211710095411_38.jpg#4		A beautiful girl dressed in black dress is standing in front of a building .
+211710100322_38.jpg#0		A couple is taking a picture in front of tall building .
+211710100322_38.jpg#1		A couple is posing to take a picture in front of a landmark .
+211710100322_38.jpg#2		A couple is standing in front of a beautiful landmark .
+211710100322_38.jpg#3		A couple stands in front of a landmark to take a picture .
+211710100322_38.jpg#4		A couple poses in front of a landmark to take picture .
+211710100951_38.jpg#0		A young	girl in a pink hat is smiling in front of a beautiful landmark .
+211710100951_38.jpg#1		A women dressed in black shirt and pink hat is taking a picture in front of a tall building .
+211710100951_38.jpg#2		A girl is posing in front of a landmark to take a picture .
+211710100951_38.jpg#3		A person stands in front of tall and beautiful building to take a picture .
+211710100951_38.jpg#4		A person in black shirt and pink hat is standing in front of a tall landmark .
+211710101725_38.jpg#0		People are driving in front of a group of tall building .
+211710101725_38.jpg#1		A group of people are driving in front of a landmark .
+211710101725_38.jpg#2		A group of people is driving past a tall building.
+211710101725_38.jpg#3		People drives through a tall building .
+211710101725_38.jpg#4		A group is moving past a group of beautiful landmark .
+211710102633_38.jpg#0		Cars are moving past a tall building .
+211710102633_38.jpg#1		Cars move through a tall landmark .
+211710102633_38.jpg#2		People are driving cars through a tall building .
+211710102633_38.jpg#3		People are driving past a beautiful landmark .
+211710102633_38.jpg#4		Cars are moving through a tall building .
+
+
+
+
 
