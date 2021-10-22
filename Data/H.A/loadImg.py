@@ -21,8 +21,7 @@ files = os.listdir(sourcePath)
 for f in files :
     for img in imgName :
         if (f.startswith(img)) and (img != '') : 
-            # strings = time.strftime("%Y%m%d%H%M%S")[2:]
-            # newImgName = strings+"_89.jpg"
+            
             shutil.move(sourcePath+"/"+img,destinationPath+"/"+img)
             
 
